@@ -1,5 +1,5 @@
 <h2 align="center">
-        Building <span style="color: rgb(0, 187, 255);">3R Minds</span>
+        Building <span style="color: #00bbff;">3R Minds</span>
 </h2>
       
 <p align="center">
