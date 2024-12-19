@@ -9,8 +9,6 @@
 </p>
 
 <!-- About Me Section -->
-### 🙋‍♂️ About Me
-
 - 🎓 I'm a **3rd year student** and an **AI/ML Enthusiast**.  
 - 🚀 Building 3R Minds - ProjectA1 and expanding my knowledge in AI, ML.  
 - 🌱 Actively learning and contributing to the project.  
