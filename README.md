@@ -10,14 +10,14 @@
 
 <!-- Add all Imgur images below -->
 <p align="center">
-    <img src="https://i.imgur.com/IPUQMoy.jpg" width="20px" alt="Python" />
-    <img src="https://i.imgur.com/tNII1GL.jpg" width="20px" alt="fastapi" />
-    <img src="https://i.imgur.com/mWCPZrJ.jpg" width="20px" alt="scikit-learn" />
-    <img src="https://i.imgur.com/rUoe8ex.jpg" width="20px" alt="Tensorflow" />
-    <img src="https://i.imgur.com/lOBvlUy.jpg" width="20px" alt="pytorch" />
-    <img src="https://i.imgur.com/qf5rZN4.jpg" width="20px" alt="mongoDB" />
-    <img src="https://i.imgur.com/WNn9B2I.jpg" width="20px" alt="Html" />
-    <img src="https://i.imgur.com/5qaEncy.jpg" width="20px" alt="css" />
-    <img src="https://i.imgur.com/ZrdtOte.jpg" width="20px" alt="javascript" />
-    <img src="https://i.imgur.com/4Gacy40.jpg" width="20px" alt="problem solving" />
+    <img src="https://i.imgur.com/IPUQMoy.jpg" width="200px" alt="Python" />
+    <img src="https://i.imgur.com/tNII1GL.jpg" width="200px" alt="fastapi" />
+    <img src="https://i.imgur.com/mWCPZrJ.jpg" width="200px" alt="scikit-learn" />
+    <img src="https://i.imgur.com/rUoe8ex.jpg" width="200px" alt="Tensorflow" />
+    <img src="https://i.imgur.com/lOBvlUy.jpg" width="200px" alt="pytorch" />
+    <img src="https://i.imgur.com/qf5rZN4.jpg" width="200px" alt="mongoDB" />
+    <img src="https://i.imgur.com/WNn9B2I.jpg" width="200px" alt="Html" />
+    <img src="https://i.imgur.com/5qaEncy.jpg" width="200px" alt="css" />
+    <img src="https://i.imgur.com/ZrdtOte.jpg" width="200px" alt="javascript" />
+    <img src="https://i.imgur.com/4Gacy40.jpg" width="200px" alt="problem solving" />
 </p>
