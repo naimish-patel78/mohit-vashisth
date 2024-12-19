@@ -10,16 +10,14 @@
 
 <!-- Add all Imgur images below -->
 <p align="center">
-    <img src="https://i.imgur.com/4Gacy40.jpg" alt="Python Sticker 1" />
-    <img src="https://i.imgur.com/WNn9B2I.jpg" alt="Python Sticker 2" />
-    <img src="https://i.imgur.com/5qaEncy.jpg" alt="Python Sticker 3" />
-    <img src="https://i.imgur.com/ZrdtOte.jpg" alt="Python Sticker 4" />
-    <img src="https://i.imgur.com/tNII1GL.jpg" alt="Python Sticker 5" />
-    <img src="https://i.imgur.com/h7OQxyX.jpg" alt="Python Sticker 6" />
-    <img src="https://i.imgur.com/hpQTsxK.jpg" alt="Python Sticker 7" />
-    <img src="https://i.imgur.com/mWCPZrJ.jpg" alt="Python Sticker 8" />
-    <img src="https://i.imgur.com/rUoe8ex.jpg" alt="Python Sticker 9" />
-    <img src="https://i.imgur.com/lOBvlUy.jpg" alt="Python Sticker 10" />
-    <img src="https://i.imgur.com/IPUQMoy.jpg" alt="Python Sticker 11" />
-    <img src="https://i.imgur.com/qf5rZN4.jpg" alt="Python Sticker 12" />
+    <img src="https://i.imgur.com/IPUQMoy.jpg" alt="Python" />
+    <img src="https://i.imgur.com/tNII1GL.jpg" alt="fastapi" />
+    <img src="https://i.imgur.com/mWCPZrJ.jpg" alt="scikit-learn" />
+    <img src="https://i.imgur.com/rUoe8ex.jpg" alt="Tensorflow" />
+    <img src="https://i.imgur.com/lOBvlUy.jpg" alt="pytorch" />
+    <img src="https://i.imgur.com/qf5rZN4.jpg" alt="mongoDB" />
+    <img src="https://i.imgur.com/WNn9B2I.jpg" alt="Html" />
+    <img src="https://i.imgur.com/5qaEncy.jpg" alt="css" />
+    <img src="https://i.imgur.com/ZrdtOte.jpg" alt="javascript" />
+    <img src="https://i.imgur.com/4Gacy40.jpg" alt="problem solving" />
 </p>
