@@ -8,16 +8,69 @@
     </a>
 </p>
 
-<!-- Add all Imgur images below -->
-<p align="center">
-    <img src="https://i.imgur.com/IPUQMoy.jpg" width="200px" alt="Python" />
-    <img src="https://i.imgur.com/tNII1GL.jpg" width="200px" alt="fastapi" />
-    <img src="https://i.imgur.com/mWCPZrJ.jpg" width="200px" alt="scikit-learn" />
-    <img src="https://i.imgur.com/rUoe8ex.jpg" width="200px" alt="Tensorflow" />
-    <img src="https://i.imgur.com/lOBvlUy.jpg" width="200px" alt="pytorch" />
-    <img src="https://i.imgur.com/qf5rZN4.jpg" width="200px" alt="mongoDB" />
-    <img src="https://i.imgur.com/WNn9B2I.jpg" width="200px" alt="Html" />
-    <img src="https://i.imgur.com/5qaEncy.jpg" width="200px" alt="css" />
-    <img src="https://i.imgur.com/ZrdtOte.jpg" width="200px" alt="javascript" />
-    <img src="https://i.imgur.com/4Gacy40.jpg" width="200px" alt="problem solving" />
+<!-- About Me Section -->
+### 🙋‍♂️ About Me
+
+- 🎓 I'm a **3rd year student** and an **AI/ML Enthusiast**.  
+- 🚀 Building 3R Minds - ProjectA1 and expanding my knowledge in AI, ML.  
+- 🌱 Actively learning and contributing to the project.  
+
+---
+
+<!-- LeetCode Stats -->
+#### **Programming Languages**:
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
+
+#### **Frameworks & Libraries**:
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat&logo=jinja&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+</p>
+
+#### **Libraries**:
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+</p>
+
+#### **Database Tools**:
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+#### **Authentication & Security**:
+<p>
+  <img src="https://img.shields.io/badge/bcrypt-00C7B7?style=flat&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Authentication-4285F4?style=flat&logo=lock&logoColor=white" />
+</p>
+
+#### **Tools**:
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white" />
+</p>
+
+---
+### 💡 Quote to Live By:
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+---
+
+<p align="center">💻 Built with ❤️ by <b>Mohit Narayan Vashisth</b></p>
